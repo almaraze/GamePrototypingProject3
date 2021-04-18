@@ -1,4 +1,5 @@
 /// @description 
 
-x = mouse_x;
-y = mouse_y;
+x=mouse_x+xx;
+y=mouse_y+yy;
+global.selectedItem = self.id;
