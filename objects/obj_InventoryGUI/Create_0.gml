@@ -1,5 +1,5 @@
 /// @description Setting up variables
-
+mouseOver =  false;
 textBorder = 10;
 myItems = playerInventory;
 myColor = c_black;
